@@ -1,5 +1,5 @@
 <h2 align="center">
-   Hey There, I'm Gurjot Singh<img src="./Assets/Hi.gif" width="30">
+   Hey There, I'm Gurjot Singh<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/Hi.gif" width="30">
 </h2>
 
 <!--
