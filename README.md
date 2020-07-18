@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2 align="center">
+   Hey There, I'm Gurjot Singh<img src="./Assets/Hi.gif" width="30">
+</h2>
 
 <!--
 **gurjotsingh4398/gurjotsingh4398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
