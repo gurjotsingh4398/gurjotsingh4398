@@ -1,7 +1,12 @@
 <h2 align="center">
    Hey There, I'm Gurjot Singh<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/Hi.gif" width="30">
 </h2>
-
+<p align='center'>
+    <a href="https://github.com/gurjotsingh4398"><img height="30" src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/github.svg"></a>&nbsp;&nbsp;
+    <a href="https://in.linkedin.com/in/gurjotsingh4398"><img height="30" src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/gurjotsingh4398"><img height="30" src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/twitter.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:gurjotsingh4398@gmail.com"><img height="30" src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/gmail.svg"></a>&nbsp;&nbsp;
+</p> 
 <!--
 **gurjotsingh4398/gurjotsingh4398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
