@@ -8,9 +8,9 @@
     <a href="mailto:gurjotsingh4398@gmail.com"><img height="30" src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
-<h3>𝕀'𝕞 𝕒 𝔽𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕎𝕖𝕓 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h2>𝕀'𝕞 𝕒 𝔽𝕦𝕝𝕝𝕤𝕥𝕒𝕔𝕜 𝕎𝕖𝕓 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h3>ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕒𝕤 𝕒, ℂ𝕝𝕠𝕦𝕕 𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔸𝕤𝕤𝕠𝕔𝕚𝕒𝕥𝕖 𝕒𝕥 &nbsp;<img src="./Assets/aws.svg" width="28" ></h3>
+<h2>ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕒𝕤 𝕒, ℂ𝕝𝕠𝕦𝕕 𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔸𝕤𝕤𝕠𝕔𝕚𝕒𝕥𝕖 𝕒𝕥 &nbsp;<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/aws.svg" width="32" ></h2>
 <!--
 
 Here are some ideas to get you started:
