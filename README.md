@@ -22,9 +22,4 @@
 
 <b>𝕊𝕜𝕚𝕝𝕝𝕤:</b>
 
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/js.webp" width="50"/>
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/react.webp" width="50"/>
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/node.webp" width="50"/>
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/git.webp" width="110"/>
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/github.webp" width="50"/>
-<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/vscode.webp" width="50"/>
+<img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/js.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/react.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/node.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/git.webp" width="110"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/github.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/vscode.webp" width="50"/>
