@@ -23,3 +23,7 @@
 <b>𝕊𝕜𝕚𝕝𝕝𝕤:</b>
 
 <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/js.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/react.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/node.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/git.webp" width="110"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/github.webp" width="50"/> <img src="https://raw.githubusercontent.com/gurjotsingh4398/gurjotsingh4398/master/Assets/vscode.webp" width="50"/>
+
+<b>𝔸𝕔𝕔𝕠𝕦𝕟𝕥 𝕊𝕥𝕒𝕥𝕤:</b>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gurjotsingh4398&show_icons=true)
